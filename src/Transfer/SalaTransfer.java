@@ -7,7 +7,7 @@ import java.util.List;
  * Clase que extiende ObjetoTransfer y contiene los datos necesarios para representar una sala de un cine ademas del id heredado <br>
  * Tiene el numero de filas y de columnas de la sala, su aforo y una lista con todas las sesiones de la sala
  * encapsula toda la informacion de una sala para poder trabajar con ella
- * @author Manuel
+ * @author MIGUEL
  *
  */
 public class SalaTransfer extends ObjetoTransfer {

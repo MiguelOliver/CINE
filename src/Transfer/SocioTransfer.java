@@ -11,7 +11,7 @@ import AppDataProgramFilms.Utilidades;
  * Sus campos seran strings con el nombre, apellidos, correo, NIF y contrase�a y dos listas con las valoraciones y reservas <br>
  * No tiene implementado el metodo toString, por defecto, en caso de que se use, se utilizara el heredado de object
  * Como no se muestran mensajes por consola y todo se muestra mediante una interfaz grafica (GUI) no es necesario
- * @author Manuel
+ * @author MIGUEL
  *
  */
 public class SocioTransfer extends ObjetoTransfer {

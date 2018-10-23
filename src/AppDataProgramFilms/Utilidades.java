@@ -107,7 +107,7 @@ public class Utilidades {
 	}
 	
 	/**
-	 * Funcion que devuelve is una cadena esta compuesta por numeros (enteros o decimales, el '.' esta admitido)
+	 * Funcion que devuelve si una cadena esta compuesta por numeros (enteros o decimales, el '.' esta admitido)
 	 * mientras un caracter sea numero o '.' o '\n' devolvera true. eoc devolvera false
 	 */
 	public static boolean isNumber(String myString){

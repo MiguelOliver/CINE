@@ -9,7 +9,7 @@ import AppDataProgramFilms.Utilidades;
 /**
  * Lee el usuario y contraseña de mysql del txt
  * Tiene un atributo que es un array de strings donde guarda el usuario y la contraseña
- * @author Manuel
+ * @author MIGUEL
  *
  */
 

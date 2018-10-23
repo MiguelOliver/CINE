@@ -6,7 +6,7 @@ import AppDataProgramFilms.Utilidades;
  * Clase que extiende ObjetoTransfer y encapsula toda la informacion para llevar la valoracion de una pelicula
  * Tendra un campo estatico de tipo entero que ira incrementando para llevar un control del contador de valoraciones
  * LLevara un campo valor, el id de la pelicula y el dni del socio
- * @author Manuel
+ * @author MIGUEL
  *
  */
 public class ValoracionTransfer extends ObjetoTransfer{

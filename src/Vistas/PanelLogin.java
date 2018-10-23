@@ -12,7 +12,7 @@ import AppService.AppServiceInterfaz;
 
 /**
  *
- * @author SkyLanes
+ * @author MIGUEL
  */
 @SuppressWarnings("serial")
 public class PanelLogin  extends PanelGenerico{

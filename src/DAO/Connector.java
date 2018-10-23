@@ -9,7 +9,7 @@ import java.sql.SQLException;
 /**
  * Esta clase es la encargada de realizar la conexion con la base de datos <br>
  * Tiene dos atributos una conexion y un fichero del que leer el usuario y la contraseña <br>
- * @author Manuel
+ * @author MIGUEL
  *
  */
 public class Connector {

@@ -23,7 +23,7 @@ import Transfer.ObjetoTransfer;
  * BD --> ID_RESERVA <--> contReservas --> programa (es autogenerado, por lo que lo mas parecido a una bariable en el 
  * 													 progrma es el propio contador)
  * BD --> SOCIO_NIF <--> nifSocio --> programa
- * @author APPDataProgramFilm
+ * @author MIGUEL
  *
  */
 public class DAOReserva extends DAO{

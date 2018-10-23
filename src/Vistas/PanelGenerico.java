@@ -7,7 +7,7 @@ import AppService.AppServiceInterfaz;
 
 /**
  * Clase que indica que metodos tiene que implementar los paneles para poder ser utilizados, y devolver los datos al controlador
- * @author SkyLanes
+ * @author MIGUEL
  *
  */
 @SuppressWarnings("serial")

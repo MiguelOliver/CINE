@@ -13,7 +13,7 @@ import AppService.AppServiceInterfaz;
 
 /**
  *
- * @author SkyLanes
+ * @author MIGUEL
  */
 @SuppressWarnings("serial")
 public class PanelInicial extends PanelGenerico{

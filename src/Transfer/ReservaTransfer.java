@@ -10,7 +10,7 @@ import AppDataProgramFilms.Utilidades;
  * tendra un entero estatico que sera un contador que ira incrementando de uno en uno para contar todas las reservas <br>
  * un entero con el id del socio correspondiente a la reserva y una lista de todas las butacas reservadas
  * Esta clase encapsula todo lo relacionado con una reserva de un socio determinado
- * @author Manuel
+ * @author MIGUEL
  *
  */
 public class ReservaTransfer extends ObjetoTransfer{

@@ -14,7 +14,7 @@ import Vistas.PanelGenerico;
 
 /**
  *
- * @author SkyLanes
+ * @author MIGUEL
  */
 @SuppressWarnings("serial")
 public class PanelBajaPelicula extends PanelGenerico {

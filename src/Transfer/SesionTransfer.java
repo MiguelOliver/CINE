@@ -10,7 +10,7 @@ import AppDataProgramFilms.Utilidades;
  * Contiene un entero estatico que se ira incrementando para llevar el recuento del numero de sesiones <br<
  * un id de la sala a la que pertenece esta sesion, la fecha de la sesion, el id de la pelicula de la sesion <br>
  * tendr� adem�s una lista con todas las butacas ocupadas en la sesion
- * @author Manuel
+ * @author MIGUEL
  *
  */
 public class SesionTransfer extends ObjetoTransfer{

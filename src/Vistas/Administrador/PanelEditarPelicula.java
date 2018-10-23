@@ -15,7 +15,7 @@ import Vistas.PanelGenerico;
 
 /**
  *
- * @author AppDataProgramFilms
+ * @author MIGUEL
  */
 @SuppressWarnings("serial")
 public class PanelEditarPelicula extends PanelGenerico {
